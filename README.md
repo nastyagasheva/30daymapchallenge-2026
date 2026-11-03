@@ -33,3 +33,13 @@ keeps the files as a plain static website. No package installation is required.
 
 Add future challenge days as new map entries and keep their credits, dates,
 licences, and image descriptions with the published work.
+
+## Day 02 · Lines
+
+**Bikin / Hydrographic herbarium.** HydroRIVERS network and 88 State Water
+Register tributary records: 51 left-bank, 37 right-bank, 16 unnamed. Distances
+follow the register; branch lengths are schematic. HydroRIVERS source grid:
+15 arc-seconds, junction-preserving smoothing. Lehner & Grill (2013),
+doi:10.1002/hyp.9740. Five name links through OpenStreetMap, 25 October 2026.
+Sources, method and limitations accompany the gallery map. English PNG and
+editable SVG, 3360 × 3990 pixels.

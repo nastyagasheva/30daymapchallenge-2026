@@ -14,3 +14,13 @@ from © OpenStreetMap contributors and is attributed under ODbL.
 Embedded IBM Plex fonts are licensed separately under the SIL Open Font License;
 their licence is retained in the SVG. System font names in the page stylesheet do
 not distribute those font files.
+
+## Day 02 · Lines
+
+Bikin cartographic design: NG Cartography, CC BY-NC-SA 4.0. Underlying data
+retain their terms: HydroRIVERS / HydroSHEDS (Lehner & Grill 2013,
+doi:10.1002/hyp.9740; https://www.hydrosheds.org/products/hydrorivers), State
+Water Register table 1.9 / Rosvodresursy, OpenStreetMap contributors / ODbL.
+No licence for raw State Water Register redistribution is asserted; raw datasets
+are not included. Embedded DejaVu Serif font data retain their embedded open
+font licence, separately from the artwork.
