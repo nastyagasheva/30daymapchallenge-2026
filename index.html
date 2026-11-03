@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#fcfcf9">
+  <title>Primorye · Points — NG Cartography</title>
+  <meta name="description" content="657 settlements, population in 2020, and the terrain of Primorsky Krai. An original map for Day 01 of the 30DayMapChallenge 2026.">
+  <meta property="og:title" content="Primorye · Settlements & Terrain">
+  <meta property="og:description" content="Day 01 / Points · 30DayMapChallenge 2026 · NG Cartography">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://nastyagasheva.github.io/30daymapchallenge-2026/assets/primorye-points-preview.jpg">
+  <meta property="og:url" content="https://nastyagasheva.github.io/30daymapchallenge-2026/">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#map">Skip to the map</a>
+  <header class="masthead wrap">
+    <a class="wordmark" href="./" aria-label="NG Cartography home"><span class="point" aria-hidden="true"></span>NG <span class="wordmark-sub">Cartography</span></a>
+    <a class="challenge" href="https://30daymapchallenge.com/">30DayMapChallenge <span>2026</span><span aria-hidden="true"> ↗</span></a>
+  </header>
+
+  <main class="wrap">
+    <article class="map-entry" id="day-01">
+      <header class="entry-heading">
+        <div>
+          <p class="eyebrow"><span class="day-number">01</span> Points</p>
+          <h1>Primorye.</h1>
+          <p class="subtitle">Settlements &amp; terrain</p>
+        </div>
+        <p class="question">How does terrain relate to the settlement pattern of Primorye?</p>
+      </header>
+
+      <div class="map-layout">
+        <figure class="poster" id="map">
+          <a class="poster-link" href="assets/primorye-points.png" target="_blank" rel="noopener" aria-label="Open the full-resolution map in a new tab">
+            <img src="assets/primorye-points.webp" width="2200" height="2544" fetchpriority="high" alt="Map of Primorsky Krai in the Russian Far East. Vermilion circles show 657 settlements, sized by population in 2020, over blue-grey hachures showing mountain slopes and valleys.">
+            <span class="expand-hint">Open full resolution <span aria-hidden="true">↗</span></span>
+          </a>
+          <figcaption>A whole region, read through individual places.</figcaption>
+        </figure>
+
+        <aside class="map-notes" aria-label="About the map">
+          <div class="note-block location"><p class="eyebrow">The territory</p><p>Primorsky Krai<br><span>Russian Far East</span></p></div>
+          <dl class="facts">
+            <div><dt>Settlements</dt><dd>657</dd></div>
+            <div><dt>Population data</dt><dd>2020</dd></div>
+          </dl>
+          <p>Each circle marks a settlement. Graduated sizes represent six population intervals. Hachures follow the direction of the slopes.</p>
+          <p class="quiet">The map invites a visual comparison of settlement patterns and landforms. It does not establish a causal relationship.</p>
+          <div class="downloads">
+            <a class="download primary" href="assets/primorye-points.png" download="NG_Primorye_Points_2026.png">Download map <span>PNG · 3840 × 4440</span></a>
+            <a class="download" href="assets/primorye-points.svg" download="NG_Primorye_Points_2026.svg">Editable original <span>SVG · vector hachures &amp; text</span></a>
+          </div>
+          <p class="tiny">Population refers to 2020. Twelve zero values are retained as open circles; they do not establish that the places are abandoned.</p>
+        </aside>
+      </div>
+
+      <section class="colophon" aria-labelledby="sources-title">
+        <div class="colophon-label"><h2 id="sources-title">Behind the map</h2><p>Data, method &amp; credits</p></div>
+        <div class="colophon-content">
+          <p class="method">Created from public geodata with Python and AI-assisted scripting. Cartographic choices were reviewed and refined iteratively. The relief is a digital hachure drawing derived from a terrain model.</p>
+          <details>
+            <summary>Sources and licence <span aria-hidden="true">+</span></summary>
+            <ul class="sources">
+              <li><strong>Settlements and population:</strong> CPUR (ЦПУР), release 12 March 2021; population figures for 2020. Existing data were subset to Primorsky Krai and represented by graduated symbols. <a href="https://data.rcsi.science/data-catalog/datasets/160/">Dataset record ↗</a></li>
+              <li><strong>Terrain:</strong> <a href="https://registry.opendata.aws/terrain-tiles/">Mapzen Terrain Tiles</a>, zoom 8; SRTM and GMTED2010 courtesy of USGS, ETOPO1 courtesy of NOAA. Reprojected to a 400 m Lambert azimuthal equal-area grid and generalised for regional display. <a href="https://github.com/tilezen/joerd/blob/master/docs/attribution.md">Terrain attribution ↗</a></li>
+              <li><strong>Coast, lakes and rivers:</strong> <a href="https://www.naturalearthdata.com/">Natural Earth</a>, 1:10 million physical data, public domain.</li>
+              <li><strong>Regional boundary:</strong> © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>, ODbL; relation 151225.</li>
+            </ul>
+            <p>The map is shared under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>. Please credit NG and the data sources when sharing. IBM Plex fonts embedded in the SVG retain their SIL Open Font License.</p>
+          </details>
+        </div>
+      </section>
+    </article>
+  </main>
+
+  <footer class="site-footer wrap"><span>NG · Cartographic notebook · 2026</span><a href="https://github.com/nastyagasheva/30daymapchallenge-2026">View on GitHub <span aria-hidden="true">↗</span></a></footer>
+</body>
+</html>
