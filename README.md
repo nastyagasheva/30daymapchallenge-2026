@@ -1,5 +1,16 @@
 # 30DayMapChallenge 2026 — NG Cartography
 
+## Day 03 · Polygons
+
+**Vladivostok / Between hills & bays.** Generalised building patterns across
+the peninsula and islands, with flat surface-elevation bands and three
+equal-scale details: central Vladivostok, Vtoraya Rechka and Patrokl Bay.
+Overture 2026-10-21.0 / OpenStreetMap / Microsoft ML Buildings; OSM coastline
+snapshot 2026-10-25; Copernicus GLO-30 release 2021. PNG, editable SVG and
+derived fabric GeoJSON (ODbL) are linked from the gallery. Study window is
+not the complete administrative city boundary; generalisation is not a
+measurement of building area. Full method and attribution accompany the map.
+
 A public cartographic notebook, published with GitHub Pages.
 
 ## Day 01 · Points

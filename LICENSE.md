@@ -24,3 +24,15 @@ Water Register table 1.9 / Rosvodresursy, OpenStreetMap contributors / ODbL.
 No licence for raw State Water Register redistribution is asserted; raw datasets
 are not included. Embedded DejaVu Serif font data retain their embedded open
 font licence, separately from the artwork.
+
+## Day 03 · Polygons
+
+Vladivostok / Between hills & bays: cartographic design by NG Cartography,
+CC BY-NC-SA 4.0. Building and water geometry retain ODbL terms: Overture Maps
+Foundation, © OpenStreetMap contributors and Microsoft ML Buildings.
+`assets/vladivostok-fabric.geojson` is the derived, generalised fabric database,
+offered under ODbL 1.0 (https://opendatacommons.org/licenses/odbl/1-0/).
+The derivation parameters and source releases are described on the page.
+Copernicus GLO-30 Public, release 2021, retains its source licence:
+https://registry.opendata.aws/copernicus-dem/. Its data represent surface
+elevation, including vegetation and structures. IBM Plex fonts retain SIL OFL.
