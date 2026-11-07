@@ -5,24 +5,54 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="#fcfcf9">
   <title>30DayMapChallenge 2026 — NG Cartography</title>
-  <meta name="description" content="Maps of the Russian Far East: Vladivostok, Day 03 Polygons; Bikin, Day 02 Lines; Primorye, Day 01 Points.">
-  <meta property="og:title" content="Vladivostok · Between hills &amp; bays">
-  <meta property="og:description" content="Day 03 / Polygons · 30DayMapChallenge 2026 · NG Cartography">
+  <meta name="description" content="Original maps: western Pacific typhoon families; Vladivostok building patterns; Bikin rivers; Primorye settlements.">
+  <meta property="og:title" content="Where typhoons go · Two route families, one Pacific">
+  <meta property="og:description" content="Day04 / Clusters · 30DayMapChallenge2026 · NG Cartography">
   <meta property="og:type" content="website">
-  <meta property="og:image" content="https://nastyagasheva.github.io/30daymapchallenge-2026/assets/vladivostok-polygons.jpg">
+  <meta property="og:image" content="https://nastyagasheva.github.io/30daymapchallenge-2026/assets/typhoons-clusters.jpg">
   <meta property="og:url" content="https://nastyagasheva.github.io/30daymapchallenge-2026/">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <a class="skip-link" href="#map-polygons">Skip to the map</a>
+  <a class="skip-link" href="#map-clusters">Skip to the map</a>
   <header class="masthead wrap">
     <a class="wordmark" href="./" aria-label="NG Cartography home"><span class="point" aria-hidden="true"></span>NG <span class="wordmark-sub">Cartography</span></a>
     <a class="challenge" href="https://30daymapchallenge.com/">30DayMapChallenge <span>2026</span><span aria-hidden="true"> ↗</span></a>
   </header>
 
-  <nav class="day-nav wrap" aria-label="Challenge days"><a href="#day-03">03 / Polygons</a><a href="#day-02">02 / Lines</a><a href="#day-01">01 / Points</a></nav>
+  <nav class="day-nav wrap" aria-label="Challenge days"><a href="#day-04">04 / Clusters</a><a href="#day-03">03 / Polygons</a><a href="#day-02">02 / Lines</a><a href="#day-01">01 / Points</a></nav>
   <main class="wrap">
+    <!-- DAY04 RELEASE START -->
+    <article class="map-entry" id="day-04">
+      <header class="entry-heading"><div><p class="eyebrow"><span class="day-number">04</span> Clusters</p><h1>Where typhoons go.</h1><p class="subtitle">Two route families, one Pacific</p></div><p class="question">Which recurring routes pass near Japan and Primorye?</p></header>
+      <div class="map-layout">
+        <figure class="poster" id="map-clusters"><a class="poster-link" href="assets/typhoons-clusters.png" target="_blank" rel="noopener" aria-label="Open the typhoon map at full resolution"><img src="assets/typhoons-clusters.jpg" width="2200" height="2811" fetchpriority="high" alt="One circular map of the western Pacific. Terracotta fields trace westward routes; turquoise fields curve north toward Japan. Nesat 2011 and Ewiniar 2000 are real representative tracks. Eighteen borderline routes remain grey; dashed segments show extratropical continuations."><span class="expand-hint">Open full resolution ↗</span></a><figcaption>Two route families share one geographic frame. Fields summarise repeated passages; coloured lines are two actual examples.</figcaption></figure>
+        <aside class="map-notes" aria-label="About the typhoon map">
+          <div class="note-block location"><p class="eyebrow">The territory</p><p>Western North Pacific<br><span>Japan &amp; Primorye<br>2000–2024 cyclone seasons</span></p></div>
+          <dl class="facts"><div><dt>Cyclone histories</dt><dd>320</dd></div><div><dt>Westward / northward</dt><dd>112 / 190</dd></div><div><dt>Borderline tracks</dt><dd>18</dd></div></dl>
+          <p>Warm fields summarise westward routes; cool fields summarise routes turning north. Darker colour means that a larger share of that family passed within 150 km of a location.</p>
+          <table class="family-comparison"><caption>Tracks within 200 km</caption><thead><tr><th scope="col">Selection</th><th scope="col" class="west">West</th><th scope="col" class="north">North</th><th scope="col">Grey</th></tr></thead><tbody><tr><th scope="row">All tracks</th><td>112</td><td>190</td><td>18</td></tr><tr><th scope="row">Japan</th><td>4</td><td>94</td><td>6</td></tr><tr><th scope="row">Primorye</th><td>0</td><td>28</td><td>1</td></tr></tbody></table>
+          <p class="quiet">Nine of the 28 northern tracks approached Primorye only after becoming extratropical. Full life histories are shown, rather than only the typhoon-strength phase. Proximity is not landfall or measured wind and rain exposure.</p>
+          <div class="downloads"><a class="download primary" href="assets/typhoons-clusters.png" download="NG_Typhoon_Clusters_2026.png">Download map <span>PNG · 3780 × 4830</span></a><a class="download" href="assets/typhoons-clusters.svg" download="NG_Typhoon_Clusters_2026.svg">Editable original <span>SVG · fields, real paths &amp; text</span></a></div>
+          <p class="tiny">The 18 grey tracks change family when path sampling is refined. They remain visible individually and are excluded from both coloured fields. Distant continuations outside the circular study window are clipped.</p>
+        </aside>
+      </div>
+      <section class="colophon" aria-labelledby="sources-clusters"><div class="colophon-label"><h2 id="sources-clusters">Behind the map</h2><p>Question, method &amp; limits</p></div><div class="colophon-content">
+        <p class="method">Created with Python and AI-assisted scripting. The map compares recurring routes and their proximity to Japan and Primorye. All 320 MAIN histories reached JMA/RSMC Tokyo grade 5 (typhoon) at least once; their complete available histories, including extratropical continuation, are retained.</p>
+        <p>Paths are represented by 32 positions at equal fractions of geodesic path length, projected in a western Pacific Lambert azimuthal equal-area projection. Ward clustering compares their geographic positions without centring or rotation. Two groups had the highest silhouette score among the tested 2–6 groups. Repeating with 48 positions retained 112 westward and 190 northward assignments; 18 disagreements are grey. These are exploratory families conditional on this representation and sample, not permanent natural types.</p>
+        <p>On a 50 km grid, a full route contributes once when it passes within 150 km of a cell centre. Counts are divided by the size of that family; the common colour thresholds are 5, 10, 15, 20 and 30%. Both contour sets remain visible where fields overlap. The two coloured lines are actual medoids: Nesat (2011) and Ewiniar (2000), with their catalogue geometry preserved. Arrows show direction, dots mark starts, and dashes follow the first extratropical (ET) observation. Solid parts are not necessarily at typhoon strength throughout.</p>
+        <p>Regional counts use 200 km projected buffers of the Natural Earth 1:110m Japan polygon and the existing OpenStreetMap Primorye boundary. They describe this geometric comparison, including post-tropical continuations. The map is neither an impact assessment nor a trend analysis or forecast; field percentages are shares of past selected paths.</p>
+        <details><summary>Sources and licence <span aria-hidden="true">+</span></summary><ul class="sources">
+          <li><strong>Cyclone histories:</strong> <a href="https://www.ncei.noaa.gov/products/international-best-track-archive">NOAA NCEI IBTrACS v04r01</a>, Western Pacific subset, seasons 2000–2024, accessed 6 November 2026. Gahtan, J., K. R. Knapp, C. J. Schreck, H. J. Diamond, J. P. Kossin and M. C. Kruk (2024), <em>International Best Track Archive for Climate Stewardship (IBTrACS) Project, Version 4r01</em>. <a href="https://doi.org/10.25921/82ty-9e16">Dataset DOI: 10.25921/82ty-9e16</a>. Underlying data retain the NCEI data-use policy linked from the product page.</li>
+          <li><strong>Archive reference:</strong> Knapp, K. R., M. C. Kruk, D. H. Levinson, H. J. Diamond and C. J. Neumann (2010), <em>The International Best Track Archive for Climate Stewardship (IBTrACS): Unifying tropical cyclone best track data</em>, Bulletin of the American Meteorological Society, 91, 363–376. <a href="https://doi.org/10.1175/2009BAMS2755.1">10.1175/2009BAMS2755.1</a>.</li>
+          <li><strong>Coast and Japan comparison geometry:</strong> <a href="https://www.naturalearthdata.com/">Natural Earth</a>, 1:10m land for display and 1:110m countries for the Japan comparison; public domain. These are overview geometries, not a precise coastal survey.</li>
+          <li><strong>Primorye boundary:</strong> © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>, ODbL; existing project selection of relation151225. Its source snapshot date is not independently established.</li>
+        </ul><p>Cartographic design: NG Cartography, <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>. Underlying data retain their respective terms. IBM Plex and DejaVu Serif fonts retain their open font licences, separately from the artwork.</p></details>
+      </div></section>
+    </article>
+    <!-- DAY04 RELEASE END -->
+
     <article class="map-entry" id="day-03">
       <header class="entry-heading"><div><p class="eyebrow"><span class="day-number">03</span> Polygons</p><h1>Vladivostok.</h1><p class="subtitle">Between hills &amp; bays</p></div><p class="question">Building patterns across a coastal peninsula.</p></header>
       <div class="map-layout">

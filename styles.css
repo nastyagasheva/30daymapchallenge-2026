@@ -5,3 +5,13 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
 .day-nav{display:flex;gap:24px;padding-top:24px;font-size:12px}.day-nav a{text-decoration:none}#day-02{--ink:#253e35;--accent:#aa7154;--muted:#758379;--line:#d9dfd6;scroll-margin-top:24px}#day-01{border-top:1px solid var(--line);margin-top:32px;scroll-margin-top:24px}
 #day-03{--ink:#22243c;--accent:#ee4382;--muted:#656d7a;--line:#d9dde2;scroll-margin-top:24px}#day-02{border-top:1px solid var(--line);margin-top:32px}.day-nav{flex-wrap:wrap}
+
+/* DAY04 START */
+#day-04{--ink:#273d46;--accent:#176b80;--muted:#70878a;--line:#d9e1dd;scroll-margin-top:24px}
+#day-03{border-top:1px solid var(--line);margin-top:32px}
+.family-comparison{border-collapse:collapse;width:100%;margin:25px 0;font-size:11px;font-variant-numeric:tabular-nums}
+.family-comparison caption{text-align:left;font-size:10px;letter-spacing:.04em;color:var(--muted);margin-bottom:9px}
+.family-comparison th,.family-comparison td{padding:9px 5px;border-bottom:1px solid var(--line);text-align:right}
+.family-comparison th:first-child{text-align:left;padding-left:0;font-weight:400}
+.family-comparison .west{color:#c3572d}.family-comparison .north{color:#176b80}
+/* DAY04 END */

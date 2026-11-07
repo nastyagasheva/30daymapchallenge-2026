@@ -36,3 +36,15 @@ The derivation parameters and source releases are described on the page.
 Copernicus GLO-30 Public, release 2021, retains its source licence:
 https://registry.opendata.aws/copernicus-dem/. Its data represent surface
 elevation, including vegetation and structures. IBM Plex fonts retain SIL OFL.
+
+## Day 04 · Clusters
+
+Where typhoons go: cartographic design by NG Cartography, CC BY-NC-SA4.0.
+The artwork licence does not replace source data terms: NOAA NCEI IBTrACS v04r01
+(https://www.ncei.noaa.gov/products/international-best-track-archive), dataset
+DOI10.25921/82ty-9e16, WP subset, 2000–2024 seasons, accessed6 November2026;
+Knapp et al.(2010), DOI10.1175/2009BAMS2755.1. Natural Earth land and country
+vectors are public domain. Primorye geometry retains © OpenStreetMap
+contributors / ODbL1.0 terms. No raw IBTrACS archive is redistributed here.
+Embedded IBM Plex fonts retain SIL OFL; DejaVu Serif retains its open font
+licence. Font terms are separate from the cartographic artwork licence.
