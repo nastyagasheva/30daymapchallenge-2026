@@ -5,12 +5,12 @@
 **Where typhoons go / Two route families, one Pacific.** One common map of 320
 western Pacific cyclone life histories from 2000–2024: 112 westward, 190 turning
 north, and 18 borderline assignments. Measured passage fields summarise each
-family; two real medoids and all18 borderline routes remain individual lines.
+family; two real medoids and all 18 borderline routes remain individual lines.
 Dashed segments distinguish extratropical continuations. Fields and proximity
 are not hazard or forecast probabilities. Data: NOAA IBTrACS v04r01, WP, accessed
-6 November 2026; dataset DOI10.25921/82ty-9e16, Knapp et al.(2010),
-DOI10.1175/2009BAMS2755.1; Natural Earth; OpenStreetMap contributors / ODbL.
-English PNG3780×4830, editable SVG and web preview; full method, regional
+6 November 2026; dataset DOI 10.25921/82ty-9e16, Knapp et al. (2010),
+DOI 10.1175/2009BAMS2755.1; Natural Earth; OpenStreetMap contributors / ODbL.
+English PNG 3780 × 4830, editable SVG and web preview; full method, regional
 counts, limitations and credits accompany the map on the gallery page.
 
 ## Day 03 · Polygons
