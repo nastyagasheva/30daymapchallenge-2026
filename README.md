@@ -1,5 +1,19 @@
 # 30DayMapChallenge 2026 — NG Cartography
 
+## Day 05 · Senses: Sight
+
+**Sea visibility / Vladivostok.** Overview visibility of a sea cell within five
+kilometres, from observers 1.7 metres above a digital surface. The surface includes
+vegetation and structures. Positions are spaced 150 metres apart; the 30 metre
+surface is sampled in 72 directions. Street-level views are not verified.
+
+The English map combines source-based cartography with a generated decorative
+paper-and-sea background. Hatching on land encodes model results; pale water
+textures and arcs are decorative. PNG 3360 × 4830, layered SVG with outlined
+typography, and a JPEG preview are provided. Method, limits, source dates and
+attribution accompany the gallery entry. Sources: Copernicus GLO-30 Public 2021
+and OpenStreetMap snapshot 25 October 2026. No raw datasets are redistributed.
+
 ## Day 04 · Clusters
 
 **Where typhoons go / Two route families, one Pacific.** One common map of 320

@@ -48,3 +48,21 @@ vectors are public domain. Primorye geometry retains © OpenStreetMap
 contributors / ODbL 1.0 terms. No raw IBTrACS archive is redistributed here.
 Embedded IBM Plex fonts retain SIL OFL; DejaVu Serif retains its open font
 licence. Font terms are separate from the cartographic artwork licence.
+
+## Day 05 · Senses: Sight
+
+Sea visibility / Vladivostok: cartographic design by NG Cartography,
+CC BY-NC-SA 4.0. Underlying source terms remain separate from the artwork.
+Coast and inland water: © OpenStreetMap contributors, Open Database License,
+snapshot 25 October 2026: https://www.openstreetmap.org/copyright.
+
+Produced using Copernicus WorldDEM-30. Copyright: DLR e.V. (2010–2014) and
+Airbus Defence and Space GmbH (2014–2018). Data provided under Copernicus by
+the European Union and the European Space Agency; all rights reserved.
+Source and attribution terms:
+https://dataspace.copernicus.eu/explore-data/data-collections/copernicus-contributing-missions/collections-description/COP-DEM.
+The project uses GLO-30 Public release 2021; no raw DEM is redistributed.
+
+The paper-and-sea background was developed using OpenAI image generation.
+The final geography and analytical marks were assembled independently from
+source data. Text is distributed as vector outlines, not as font software.

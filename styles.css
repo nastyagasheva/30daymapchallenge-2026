@@ -15,3 +15,8 @@
 .family-comparison th:first-child{text-align:left;padding-left:0;font-weight:400}
 .family-comparison .west{color:#c3572d}.family-comparison .north{color:#176b80}
 /* DAY04 END */
+
+/* DAY05 START */
+#day-05{--ink:#174f50;--accent:#328e84;--muted:#667a70;--line:#dce1d6;scroll-margin-top:24px}
+#day-04{border-top:1px solid var(--line);margin-top:32px}
+/* DAY05 END */
