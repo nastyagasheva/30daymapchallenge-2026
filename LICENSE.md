@@ -66,3 +66,19 @@ The project uses GLO-30 Public release 2021; no raw DEM is redistributed.
 The paper-and-sea background was developed using OpenAI image generation.
 The final geography and analytical marks were assembled independently from
 source data. Text is distributed as vector outlines, not as font software.
+
+## Day 06 · Vintage
+
+Vladivostok / By steamship, 1881–1907: cartographic design by NG Cartography,
+Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International.
+Underlying source terms remain separate from this artwork licence.
+
+Calls and dates: Japan Center for Asian Historical Records, regular sea-route
+diagrams and chronological table, linked from the gallery. Source diagrams and
+raw databases are not redistributed. Coastline: Natural Earth 1:10 million,
+public domain. Representative locations: Geospatial Information Authority of
+Japan, Gazetteer of Japan (2021); GeoNames; United States National
+Geospatial-Intelligence Agency. GeoNames attribution applies to its records.
+
+The released map is vector cartography with outlined lettering. No generated
+artwork, archival source image or font software is embedded in the SVG.

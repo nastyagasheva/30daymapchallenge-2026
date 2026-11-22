@@ -1,5 +1,18 @@
 # 30DayMapChallenge 2026 — NG Cartography
 
+## Day 06 · Vintage
+
+**Vladivostok / By steamship, 1881–1907.** Selected regular sea connections in
+six colour families, linked to ten dated chronology events. Calls and dates
+follow the Japan Center for Asian Historical Records route diagrams and
+chronology. Curves connect recorded calls schematically; they are not ship
+tracks or a complete network operating in one year. The coastline is modern
+Natural Earth 1:10 million; locations are representative city or island-group
+coordinates from the Gazetteer of Japan (2021), GeoNames and the United States
+National Geospatial-Intelligence Agency. English PNG 2560 × 3360, all-vector SVG
+with outlined text and a JPEG preview. Sources, method and limits accompany
+the gallery entry. No generated art study is included in the released map.
+
 ## Day 05 · Senses: Sight
 
 **Sea visibility / Vladivostok.** Overview visibility of a sea cell within five
