@@ -1,5 +1,23 @@
 # 30DayMapChallenge 2026 — NG Cartography
 
+## Day 07 · 10 minute map
+
+**City of stairs / Vladivostok.** An after-timer edition linking a grouped
+mainland overview to a one-kilometre central detail. OpenStreetMap stairway line
+records share compact overview dots; open transverse strokes identify individual
+segments in the detail. The overview contains 8,029 selected records in 1,003
+display groups; neither number counts separate staircases. Short detailed symbols
+are enlarged for reading. Mapping completeness and access are not verified.
+
+The unchanged timed stairway study stopped after 246.8 seconds on 22 November
+2026 and has separate PNG and SVG downloads. The overview-and-detail sheet was
+developed afterwards and is explicitly marked as an after-timer edition.
+PNG 3500 × 2250, editable all-vector SVG with embedded open fonts, JPEG preview,
+and derived GeoJSON data under ODbL are linked from the gallery. Source:
+© OpenStreetMap contributors, local snapshot 25 October 2026. Font licences
+remain in the SVG metadata. The accepted map image is published without changes.
+
+
 ## Day 06 · Vintage
 
 **Vladivostok / By steamship, 1881–1907.** Selected regular sea connections in

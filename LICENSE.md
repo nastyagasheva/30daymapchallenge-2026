@@ -82,3 +82,25 @@ Geospatial-Intelligence Agency. GeoNames attribution applies to its records.
 
 The released map is vector cartography with outlined lettering. No generated
 artwork, archival source image or font software is embedded in the SVG.
+
+
+## Day 07 · 10 minute map
+
+City of stairs / Vladivostok: cartographic design by NG Cartography,
+Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Underlying stairway, pedestrian-path and coastline data: © OpenStreetMap
+contributors, local snapshot 25 October 2026, Open Database License 1.0.
+https://www.openstreetmap.org/copyright
+https://opendatacommons.org/licenses/odbl/1-0/
+
+The derived map data in assets/vladivostok-stairs-data.zip are offered under
+ODbL 1.0, separately from the artwork licence. The archive includes attribution,
+selected source geometry, overview group memberships, method parameters,
+coastline context and the original timed-study geometry.
+
+Both released SVG maps contain vector geography, symbols and editable text.
+Embedded IBM Plex font software retains the SIL Open Font License, included
+in the SVG metadata. The main sheet is the after-timer edition; the unchanged
+timed stairway study is linked separately. No generated raster artwork is used.
