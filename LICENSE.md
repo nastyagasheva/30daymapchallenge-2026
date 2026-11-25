@@ -104,3 +104,29 @@ Both released SVG maps contain vector geography, symbols and editable text.
 Embedded IBM Plex font software retains the SIL Open Font License, included
 in the SVG metadata. The main sheet is the after-timer edition; the unchanged
 timed stairway study is linked separately. No generated raster artwork is used.
+
+
+## Day 08 · Utopia
+
+Vladivostok, Noon: cartographic design by NG Cartography,
+Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Source coast, footprints, ways and greenery: © OpenStreetMap contributors,
+local snapshot 25 October 2026, Open Database License 1.0.
+https://www.openstreetmap.org/copyright
+https://opendatacommons.org/licenses/odbl/1-0/
+assets/vladivostok-utopia-data.zip contains the derived database under ODbL,
+with attribution, WGS 84 source geometry, explicitly fictional scenario records,
+imagined cooperation and method notes. Raw terrain tiles are excluded.
+
+Produced using Copernicus WorldDEM-30 © DLR e.V. 2010–2014 and
+© Airbus Defence and Space GmbH 2014–2018 provided under COPERNICUS by the
+European Union and ESA; all rights reserved. Source: GLO-30 Public 2021.
+https://dataspace.copernicus.eu/explore-data/data-collections/copernicus-contributing-missions/collections-description/COP-DEM
+
+Literary and institutional references are linked, not reproduced. No licence
+for the Strugatsky text or third-party reference images is asserted. Shared uses
+and cooperation are an authorial scenario; current operation is not established.
+The public SVG has raster relief/fabric and vector overlays with outlined type;
+no font software or generated raster illustration is embedded.

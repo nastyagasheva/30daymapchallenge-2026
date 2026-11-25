@@ -1,5 +1,22 @@
 # 30DayMapChallenge 2026 — NG Cartography
 
+## Day 08 · Utopia
+
+**Vladivostok, Noon.** An imagined 22nd-century archipelago of shared learning,
+creative work and stays, inspired by Arkady and Boris Strugatsky. Three registered
+layers distinguish real surface relief, recorded built places with proposed
+shared uses, and recorded ways with imagined cooperation. Future access and
+programmes are scenarios, not operating services or a development plan.
+
+The approved PNG is unchanged, 1800 × 2600. A JPEG preview, layered SVG with
+outlined typography and derived geographic data under ODbL accompany the entry.
+The SVG includes raster terrain and dense fabric plus vector overlays; no font
+software is embedded. Source mapping: © OpenStreetMap contributors, 25 October
+2026; terrain: Copernicus GLO-30 Public 2021, height ×3. No raw terrain tiles,
+reference images or rejected studies are published. Full sources and limits
+are on the gallery page.
+
+
 ## Day 07 · 10 minute map
 
 **City of stairs / Vladivostok.** An after-timer edition linking a grouped
