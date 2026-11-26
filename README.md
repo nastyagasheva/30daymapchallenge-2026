@@ -1,5 +1,20 @@
 # 30DayMapChallenge 2026 — NG Cartography
 
+## Day 09 · Urban-rural
+
+**Cities and fields of southern Primorye.** A vertical land-cover collage from
+Lake Khanka to Vladivostok and Nakhodka, with equal 20 × 20 kilometre enlargements
+of Spassk-Dalny, Ussuriysk and Vladivostok. Cropland represents approximately
+61%, 31% and less than 1% of sampled land in those windows, excluding water.
+Land cover: 2021, existing 100-metre nearest-neighbour sample of WorldCover v200.
+Tree cover, grassland and herbaceous wetlands have distinct symbolic textures.
+
+The accepted version-04 PNG is reproduced unchanged, 1500 × 2000 pixels, and
+also serves as the page preview. The SVG has embedded raster maps, vector marks
+and outlined lettering. The compact data archive retains separate source terms.
+Full sources, sampling limits and interpretation are on the gallery page.
+
+
 ## Day 08 · Utopia
 
 **Vladivostok, Noon.** An imagined 22nd-century archipelago of shared learning,

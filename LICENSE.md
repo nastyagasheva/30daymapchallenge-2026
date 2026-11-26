@@ -130,3 +130,31 @@ for the Strugatsky text or third-party reference images is asserted. Shared uses
 and cooperation are an authorial scenario; current operation is not established.
 The public SVG has raster relief/fabric and vector overlays with outlined type;
 no font software or generated raster illustration is embedded.
+
+
+## Day 09 · Urban-rural
+
+Cities and fields of southern Primorye: cartographic design by NG Cartography,
+Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Land-cover data: ESA WorldCover 2021 v200, Zanaga et al. (2022), CC BY 4.0.
+© ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021)
+processed by ESA WorldCover consortium. https://doi.org/10.5281/zenodo.7254221
+
+Settlement names and locations: Center for Advanced Governance (CPUR),
+settlements_12032021 dataset, release 12 March 2021, CC BY-NC-SA 4.0.
+https://data.rcsi.science/data-catalog/datasets/160/
+No population attributes are redistributed.
+
+Region outline: © OpenStreetMap contributors, relation 151225, ODbL 1.0.
+https://www.openstreetmap.org/copyright
+https://opendatacommons.org/licenses/odbl/1-0/
+Offshore water context: Natural Earth physical land, public domain.
+https://www.naturalearthdata.com/about/terms-of-use/
+
+The data archive is an aggregate, with per-file licences in its README:
+region_outline.geojson retains ODbL 1.0; settlement_locations.geojson retains
+CC BY-NC-SA 4.0; WorldCover sample counts retain CC BY 4.0.
+The SVG embeds map rasters and has vector clipping, marks and outlined type.
+No font software, reference images or raw global raster tiles are included.
