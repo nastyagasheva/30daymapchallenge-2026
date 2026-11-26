@@ -5,24 +5,52 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="#fcfcf9">
   <title>30DayMapChallenge 2026 — NG Cartography</title>
-  <meta name="description" content="Original maps by NG Cartography. Cities and fields of southern Primorye: a land-cover collage from Lake Khanka to the coast, followed by eight earlier challenge maps.">
-  <meta property="og:title" content="Cities and fields of southern Primorye · Urban-rural">
-  <meta property="og:description" content="Day 09 / Urban-rural · a regional landscape and three equal-scale windows · NG Cartography">
+  <meta name="description" content="Original maps by NG Cartography. Land between the lines: Vladivostok and its islands as real surface profiles, followed by nine earlier challenge maps.">
+  <meta property="og:title" content="Land between the lines · Prompting only">
+  <meta property="og:description" content="Day 10 / Prompting only · Vladivostok and its islands · NG Cartography">
   <meta property="og:type" content="website">
-  <meta property="og:image" content="https://nastyagasheva.github.io/30daymapchallenge-2026/assets/southern-primorye-urban-rural.png">
+  <meta property="og:image" content="https://nastyagasheva.github.io/30daymapchallenge-2026/assets/vladivostok-land-between-the-lines.png">
   <meta property="og:url" content="https://nastyagasheva.github.io/30daymapchallenge-2026/">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <a class="skip-link" href="#map-urban-rural">Skip to the map</a>
+  <a class="skip-link" href="#map-land-score">Skip to the map</a>
   <header class="masthead wrap">
     <a class="wordmark" href="./" aria-label="NG Cartography home"><span class="point" aria-hidden="true"></span>NG <span class="wordmark-sub">Cartography</span></a>
     <a class="challenge" href="https://30daymapchallenge.com/">30DayMapChallenge <span>2026</span><span aria-hidden="true"> ↗</span></a>
   </header>
 
-  <nav class="day-nav wrap" aria-label="Challenge days"><a href="#day-09">09 / Urban-rural</a><a href="#day-08">08 / Utopia</a><a href="#day-07">07 / 10 minute map</a><a href="#day-06">06 / Vintage</a><a href="#day-05">05 / Senses: Sight</a><a href="#day-04">04 / Clusters</a><a href="#day-03">03 / Polygons</a><a href="#day-02">02 / Lines</a><a href="#day-01">01 / Points</a></nav>
+  <nav class="day-nav wrap" aria-label="Challenge days"><a href="#day-10">10 / Prompting only</a><a href="#day-09">09 / Urban-rural</a><a href="#day-08">08 / Utopia</a><a href="#day-07">07 / 10 minute map</a><a href="#day-06">06 / Vintage</a><a href="#day-05">05 / Senses: Sight</a><a href="#day-04">04 / Clusters</a><a href="#day-03">03 / Polygons</a><a href="#day-02">02 / Lines</a><a href="#day-01">01 / Points</a></nav>
   <main class="wrap">
+    <!-- DAY10 RELEASE START -->
+    <article class="map-entry" id="day-10">
+      <header class="entry-heading"><div><p class="eyebrow"><span class="day-number">10</span> Prompting only</p><h1>Land between the lines.</h1><p class="subtitle">Vladivostok and its islands</p></div><p class="question">A coastal landscape written as a score of the surface.</p></header>
+      <div class="map-layout">
+        <figure class="poster" id="map-land-score"><a class="poster-link" href="assets/vladivostok-land-between-the-lines.png" target="_blank" rel="noopener" aria-label="Open Land between the lines at full resolution"><img src="assets/vladivostok-land-between-the-lines.png" width="1800" height="2400" fetchpriority="high" alt="A white sheet with fine turquoise and plum surface profiles forming southern Vladivostok, Russky Island, Popova Island and Reyneke Island. Open sea separates the land. Flowing fine leaders carry approximate closest-shore gaps of 1,000, 540 and 480 metres; four place labels identify selected profile maxima."><span class="expand-hint">Open full resolution</span></a><figcaption>Real surface sections form the land; the sea is the space between them.</figcaption></figure>
+        <aside class="map-notes" aria-label="About Land between the lines">
+          <div class="note-block location"><p class="eyebrow">The territory</p><p>Vladivostok<br><span>Southern peninsula<br>Russky Island · Popova Island · Reyneke Island<br>Primorsky Krai, Russia</span></p></div>
+          <dl class="facts"><div><dt>Section spacing</dt><dd>250 metres</dd></div><div><dt>Height exaggeration</dt><dd>Five times</dd></div><div><dt>Prepared surface spacing</dt><dd>70 metres</dd></div></dl>
+          <p>Each west–east line follows the rise of the modelled surface. Colour repeats height, from turquoise low ground to plum higher ground. White paper holds the sea open.</p>
+          <p class="quiet">The closest saved shorelines are approximately 1,000 metres apart between the mainland and Russky Island, 540 metres between Russky Island and Popova Island, and 480 metres between Popova Island and Reyneke Island.</p>
+          <div class="downloads"><a class="download primary" href="assets/vladivostok-land-between-the-lines.png" download="NG_Land_Between_The_Lines.png">Download map <span>PNG · 1800 × 2400</span></a><a class="download" href="assets/vladivostok-land-between-the-lines.svg" download="NG_Land_Between_The_Lines.svg">Vector artwork <span>SVG · vector lines &amp; outlined lettering</span></a></div>
+          <p class="tiny">Short marks join the measured shores; curved threads carry their labels. The curves are not routes. The four height labels describe selected sections, not the highest points of the islands or city.</p>
+        </aside>
+      </div>
+      <section class="colophon" aria-labelledby="sources-land-score"><div class="colophon-label"><h2 id="sources-land-score">Behind the map</h2><p>Surface, spacing &amp; a prompt-led process</p></div><div class="colophon-content">
+        <p class="method">Created end-to-end by Codex through chat and Python, using existing prepared terrain and coastline data. Human input selected the concept and artistic basis, requested a white background and additional information, and approved the revision. No manual map assembly was required. “Prompting only” defines the process; the musical score is a visual interpretation of land, not measured sound.</p>
+        <p><strong>How it works.</strong> West–east cuts are taken every 250 metres through the existing 70-metre surface mesh. Heights are interpolated inside its original triangles. Fivefold vertical exaggeration and an oblique ground plane make the profiles visible together. The local azimuthal equidistant projection is centred on 43.015° north and 131.875° east. The view covers 131.70–132.065° east and 42.88–43.15° north.</p>
+        <p><strong>Reading an example.</strong> The 190-metre label on Russky Island identifies the sampled maximum of the highlighted section through that island, not its summit. The approximately 540-metre annotation measures a different quantity: the shortest gap between the retained Russky Island and Popova Island shore polygons. Closest points were selected in the local metric projection and their separation measured on the WGS84 ellipsoid. Try tracing one line from the shore towards a rise: both its curve and colour communicate height. The same pairing of shape and colour can clarify a data drawing outside geography.</p>
+        <p><strong>Limits.</strong> This is an artistic drawing of a digital surface, including the effects of vegetation and structures, not a surveyed bare-earth or geological section. Preparation, interpolation and drawing omit small details. Water has no modelled depth. Rounded shore gaps depend on the retained coastline snapshot; they do not establish routes, navigability, access or present shoreline conditions. The year in the terrain release name is not a uniform acquisition year.</p>
+        <details><summary>Sources, data and licence <span aria-hidden="true">+</span></summary><ul class="sources">
+          <li><strong>Surface:</strong> <a href="https://registry.opendata.aws/copernicus-dem/">Copernicus GLO-30 Public, release 2021</a>; <a href="https://doi.org/10.5270/ESA-c5d3d65">dataset DOI</a>. Existing prepared surface at 70-metre spacing; nominal source grid approximately 30 metres. <a href="https://dataspace.copernicus.eu/explore-data/data-collections/copernicus-contributing-missions/collections-description/COP-DEM">Source description and attribution terms</a>.</li>
+          <li><strong>Copernicus attribution:</strong> Produced using Copernicus WorldDEM-30. Copyright: DLR e.V. (2010–2014) and Airbus Defence and Space GmbH (2014–2018). Data provided under Copernicus by the European Union and the European Space Agency; all rights reserved.</li>
+          <li><strong>Coastline and derived shore gaps:</strong> © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>, snapshot 25 October 2026, <a href="https://opendatacommons.org/licenses/odbl/1-0/">Open Database License 1.0</a>. <a href="assets/vladivostok-land-between-the-lines-data.zip" download="NG_Land_Between_The_Lines_Data.zip">Download the retained coastline, measured spans and method notes</a>; separate source terms are identified inside the archive.</li>
+        </ul><p>Cartographic design: NG Cartography, <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International</a>. Source data retain their own terms. The accepted version-02 PNG is reproduced unchanged and serves as the page preview. The SVG contains vector geometry and lettering converted to paths; no font software is embedded, and lettering is not editable as ordinary text.</p></details>
+      </div></section>
+    </article>
+    <!-- DAY10 RELEASE END -->
+
     <!-- DAY09 RELEASE START -->
     <article class="map-entry" id="day-09">
       <header class="entry-heading"><div><p class="eyebrow"><span class="day-number">09</span> Urban-rural</p><h1>Cities and fields.</h1><p class="subtitle">Southern Primorye · from Lake Khanka to the coast</p></div><p class="question">What surrounds the cities of southern Primorye?</p></header>

@@ -158,3 +158,23 @@ region_outline.geojson retains ODbL 1.0; settlement_locations.geojson retains
 CC BY-NC-SA 4.0; WorldCover sample counts retain CC BY 4.0.
 The SVG embeds map rasters and has vector clipping, marks and outlined type.
 No font software, reference images or raw global raster tiles are included.
+
+
+## Day 10 · Prompting only
+
+Land between the lines: design by NG Cartography, Creative Commons
+Attribution–NonCommercial–ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Coastline and derived shore-gap data: © OpenStreetMap contributors,
+snapshot 25 October 2026, Open Database License 1.0.
+https://www.openstreetmap.org/copyright
+https://opendatacommons.org/licenses/odbl/1-0/
+
+Surface: Copernicus GLO-30 Public, release 2021.
+Produced using Copernicus WorldDEM-30. Copyright: DLR e.V. (2010–2014)
+and Airbus Defence and Space GmbH (2014–2018). Data provided under
+Copernicus by the European Union and the European Space Agency; all rights reserved.
+https://doi.org/10.5270/ESA-c5d3d65
+No raw terrain tiles or font software are redistributed.
+The SVG has vector strokes and outlined lettering.

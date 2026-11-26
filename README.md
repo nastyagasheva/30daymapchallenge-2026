@@ -1,5 +1,16 @@
 # 30DayMapChallenge 2026 — NG Cartography
 
+## Day 10 · Prompting only
+
+**Land between the lines.** Vladivostok and its islands drawn as real surface
+profiles, 250 metres apart, with fivefold vertical exaggeration. White sea
+and flowing leaders accompany three approximate closest-shore gaps. Created
+through chat and code using existing Copernicus and OpenStreetMap data.
+The accepted version-02 PNG is unchanged, 1800 × 2400 pixels. The SVG contains
+vector strokes and outlined lettering; a compact archive supplies coastline,
+measured spans and method notes. Sources and limits are on the gallery page.
+
+
 ## Day 09 · Urban-rural
 
 **Cities and fields of southern Primorye.** A vertical land-cover collage from
