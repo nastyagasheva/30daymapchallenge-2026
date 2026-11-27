@@ -178,3 +178,19 @@ Copernicus by the European Union and the European Space Agency; all rights reser
 https://doi.org/10.5270/ESA-c5d3d65
 No raw terrain tiles or font software are redistributed.
 The SVG has vector strokes and outlined lettering.
+
+
+## Day 11 · Senses: Sound
+
+Vladivostok, in five bird voices: design by NG Cartography, Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Audio-derived spectral data retain the source Creative Commons
+Attribution-NonCommercial terms. Contributors: Dmitriy Davydov, mivii and
+Egor Pylev; individual observation links and credits are in the gallery and
+recordings.json. Original audio files are not redistributed.
+Coastline: copyright OpenStreetMap contributors, snapshot 25 October 2026,
+Open Database License 1.0. https://www.openstreetmap.org/copyright
+The data archive is an aggregate with separate per-file source terms.
+The SVG contains vector linework and outlined lettering; no font software.

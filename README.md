@@ -1,5 +1,16 @@
 # 30DayMapChallenge 2026 — NG Cartography
 
+## Day 11 · Senses: Sound
+
+**Vladivostok, in five bird voices.** Five real four-second recording excerpts
+become open spectral fans connected to reported locations around Vladivostok
+and Russky Island. Time runs clockwise; radius and colour encode frequency.
+Source links let readers hear the original recordings. Background is included;
+these are community-identified observations, not loudness or hearing-range data.
+PNG, vector SVG and a compact archive of metadata, spectra and coastline are
+available from the gallery card.
+
+
 ## Day 10 · Prompting only
 
 **Land between the lines.** Vladivostok and its islands drawn as real surface
